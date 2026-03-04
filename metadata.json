@@ -1,0 +1,7 @@
+{
+  "name": "Career Superpower Quiz",
+  "description": "A calm, accessible career interest assessment for students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
